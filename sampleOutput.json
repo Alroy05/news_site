@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "businessinsider.com",
+      "title": "Elon Musk blamed data scraping for strict 'rate limits' on viewing tweets. Twitter's former head of trust and safety says it's not the first time the site's…",
+      "description": "t SpaceX, Twitter and electric car maker Tesla CEO Elon Musk attends an event during the Vivatech technology startups and innovation fair at the Porte de Versailles exhibition centre in Paris, on June 16, 2023. JOEL SAGET/AFP via Getty Images Elon Musk announ…",
+      "url": "https://biztoc.com/x/3f06239f49877c8d",
+      "urlToImage": "https://c.biztoc.com/p/3f06239f49877c8d/s.webp",
+      "publishedAt": "2023-07-02T02:22:03Z",
+      "content": "tSpaceX, Twitter and electric car maker Tesla CEO Elon Musk attends an event during the Vivatech technology startups and innovation fair at the Porte de Versailles exhibition centre in Paris, on June… [+299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Steve Hanley",
+      "title": "Aston Martin Plans 4 New Electric Models, Will Use Motors Supplied By Lucid",
+      "description": "Aston Martin has shocked its normal engine supplier, Mercedes AMG, by choosing Lucid to supply power for its electric cars.",
+      "url": "https://cleantechnica.com/2023/07/01/aston-martin-plans-4-new-electric-models-will-use-motors-supplied-by-lucid/",
+      "urlToImage": "http://cleantechnica.com/files/2023/07/Lucid-motor-cutaway.jpg",
+      "publishedAt": "2023-07-02T02:11:22Z",
+      "content": "There aren’t many CleanTechnica readers planning to buy an Aston Martin. Aston Martin’s ultra-high-performance cars look terrific in James Bond movies, but are OMG expensive to the point that they ar… [+7012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "Apple, Tesla, & Amazon Are The World's 'Most Innovative Companies' In 2023",
+      "description": "Apple, Tesla, & Amazon Are The World's 'Most Innovative Companies' In 2023 Every year, Boston Consulting Group (BCG) releases their Most Innovative Companies ranking. Based on a survey of over 1,000 innovation executives polled in Dec. 2022 and Jan. 2023, BCG…",
+      "url": "https://biztoc.com/x/25757bcc20341eb2",
+      "urlToImage": "https://c.biztoc.com/p/25757bcc20341eb2/s.webp",
+      "publishedAt": "2023-07-02T00:48:03Z",
+      "content": "Apple, Tesla, &amp; Amazon Are The World's 'Most Innovative Companies' In 2023\r\nEvery year, Boston Consulting Group (BCG) releases their Most Innovative Companies ranking. Based on a survey of over 1… [+313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Snowflake CEO calls his role ‘insanely confrontational’ and knocks leaders who ‘sit back and wait for greatness’",
+      "description": "Snowflake CEO Frank Slootman has advice for young company leaders: Boost the intensity and get used to confrontation. Slootman is now in his third CEO job, and each time he’s led a company to a blockbuster IPO. That includes data hardware maker Data Domain in…",
+      "url": "https://biztoc.com/x/716121f986553682",
+      "urlToImage": "https://c.biztoc.com/p/716121f986553682/s.webp",
+      "publishedAt": "2023-07-01T23:24:04Z",
+      "content": "Snowflake CEO Frank Slootman has advice for young company leaders: Boost the intensity and get used to confrontation.Slootman is now in his third CEO job, and each time hes led a company to a blockbu… [+291 chars]"
+    }
+  ]
+}
