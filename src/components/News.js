@@ -92,8 +92,8 @@ export default class News extends Component {
   // }
 
   render() {
-    return (
-      <div className='container my-3'>
+    return (      
+      <div className='container mb-3' style={{marginTop: '80px'}}>
         <h1 className='text-center'>{this.props.category === 'general'?'AP News - Get the latest news':`Top ${this.capitalizeFirstLetter(this.props.category)} Headlines`}</h1>
         {/* {this.state.loading && <Spinner/>} */}
         <InfiniteScroll
